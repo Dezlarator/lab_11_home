@@ -51,8 +51,6 @@
 
 ## 2. Реализация программы
 
-Файл [main.c](main.c):
-
 ```c
 #define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
